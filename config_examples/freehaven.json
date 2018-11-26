@@ -8,8 +8,8 @@
     "coinDifficultyTarget": 15,
 
     "daemonType": "default",
-    "cnAlgorithm": "freehaven",
-    "cnVariant": null,
+    "cnAlgorithm": "cryptonight_superfast",
+    "cnVariant": 0,
     "cnBlobType": 0,
 
     "logging": {
